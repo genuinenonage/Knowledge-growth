@@ -1,6 +1,6 @@
 ---
 title: growth-helloworld
-date: 2022-10-12 19:18:00
+date: 2022/10/12 19:18:00
 tags:
 - Spring Boot
 - Maven
