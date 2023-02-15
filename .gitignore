@@ -7,4 +7,5 @@
 /*/mvnw
 /*/mvnw.cmd
 
-/Knowledge-growth.iml
+/**/*.iml
+/**/target

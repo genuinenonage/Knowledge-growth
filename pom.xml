@@ -11,6 +11,7 @@
     <modules>
         <module>growth-excel-poi</module>
         <module>growth-helloworld</module>
+        <module>growth-rocketmq</module>
     </modules>
 
     <properties>
